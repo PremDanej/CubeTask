@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CubeTask</string>
+    <string-array name="spinnerItem">
+        <item>Select Direction</item>
+        <item>Diagonal</item>
+        <item>Horizontal</item>
+        <item>Vertical</item>
+        <item>HV</item>
+        <item>Square</item>
+        <item>Selection Based</item>
+    </string-array>
+</resources>
